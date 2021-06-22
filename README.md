@@ -29,5 +29,11 @@ technical books resources for study.
 * Windows Internals Part 1_6th Edition
 * Windows Internals Part 2_6th Edition
 
+#### 4. Database
+* Database system concepts-6th edition
+* Expert Oracle Database Architecture
+* High.Performance.MySQL.Optimization.Backups.Replication.And.More.2nd.Edition
+* SQL Tuning.sql
+
 #### unsorted
 Seven_Concurrency_Models_in_Seven_Weeks-EN
